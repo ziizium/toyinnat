@@ -97,8 +97,8 @@ img {
 }
 
 .navigation__link {
-	display: block;         Setup to make it cliackable 
-	padding: 0.8em 1em;     Creating the clickable area 
+	display: block;         /* Setup to make it cliackable */
+	padding: 0.8em 1em;     /* Creating the clickable area */
 	font-weight: normal;
 	font-family: "Catamaran-Medium";
 	color: #ffffff;
